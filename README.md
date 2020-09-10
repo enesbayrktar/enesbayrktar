@@ -1,13 +1,7 @@
-## Hello there 👋, my name is Enes Bayraktar
+## Hello World! My name is Enes
+#### (aka: enesbayrktar)
 
-### I'm student and developer.
-I have been curious about coding since I was young. I believe that changing the world passes without changing itself.
-
-* 🔭 I’m currently working on Lua
-
-* 🌱 I’m currently learning C++, TypeScript, ReactNative, VueJS and Python with CBİLAB İTÜ
-
-* 📫 How to reach me: steam.enesbayraktar@gmail.com
+edite soon...
 
 ### Tools
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -24,4 +18,4 @@ I have been curious about coding since I was young. I believe that changing the 
 
 <br />
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=enesbayrktar&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesbayrktar&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
