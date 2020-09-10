@@ -1,13 +1,13 @@
-## Hello there 👋, my name is Enes Akıllıok
+## Hello there 👋, my name is Enes Bayraktar
 
 ### I'm student and developer.
 I have been curious about coding since I was young. I believe that changing the world passes without changing itself.
 
 * 🔭 I’m currently working on Lua
 
-* 🌱 I’m currently learning C++, TypeScript, ReactNative
+* 🌱 I’m currently learning C++, TypeScript, ReactNative, VueJS and Python with CBİLAB İTÜ
 
-* 📫 How to reach me: enesakilliok17@gmail.com
+* 📫 How to reach me: steam.enesbayraktar@gmail.com
 
 ### Tools
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
