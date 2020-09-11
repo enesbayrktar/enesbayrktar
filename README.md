@@ -10,8 +10,9 @@
 <br />
 <br />
 
-Video Tutorials:  https://www.youtube.com/channel/UCUf1G_QvDrZ17VNZXo2BD3Q/videos
+### MTASA
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enesbayrktar&repo=mtasa-resources&theme=graywhite&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesbayrktar&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesbayrktar&layout=compact&theme=graywhite&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
