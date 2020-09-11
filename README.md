@@ -10,8 +10,7 @@
 <br />
 <br />
 
-
-edite soon...
+Video Tutorials:  https://www.youtube.com/channel/UCUf1G_QvDrZ17VNZXo2BD3Q/videos
 
 ### Stats
 
