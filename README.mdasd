@@ -13,6 +13,16 @@
 ### MTASA
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=enesbayrktar&repo=mtasa-resources&theme=graywhite&show_owner=true)](https://github.com/enesbayrktar/mtasa-resources)
 
-### Stats
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesbayrktar&layout=compact&theme=graywhite&card_width=350)](https://github.com/enesbayrktar)
+
+
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="enesbayrktar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=enesbayrktar" />
+
+</details>
