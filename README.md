@@ -9,6 +9,6 @@
     <div id="suggestions">
     <a href="https://github.com/contact">Contact Support</a> •
     <a href="https://githubstatus.com">GitHub Status</a> •
-    <a href="https://twitter.com/githubstatus">@githubstatus</a> •
+    <a href="https://twitter.com/githubstatus">@githubstatus</a>
     </div>
 </div>
